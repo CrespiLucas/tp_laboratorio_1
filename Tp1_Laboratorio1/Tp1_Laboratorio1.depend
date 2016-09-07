@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473274565 source:c:\users\lucas\desktop\lucas\tp1_laboratorio1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
